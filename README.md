@@ -26,7 +26,7 @@ npm run dev
 ```
 
 ### Step 3: Open the App!
-Visit **http://localhost:3000** in your browser!
+Visit **http://localhost:3001** in your browser!
 
 ---
 
@@ -44,7 +44,7 @@ Common examples by brand:
 - **Axis**: `rtsp://root:pass@192.168.1.90/axis-media/media.amp`
 
 ### 2. Add the Camera in the App
-1. Open **http://localhost:3000/cameras**
+1. Open **http://localhost:3001/cameras**
 2. Fill in the form:
    - Camera Name: (e.g., "Front Door")
    - Location: (e.g., "Main Entrance")
