@@ -1,5 +1,7 @@
 # 🛡️ Sentinel AI - CCTV Intelligence System
 
+[![GitHub stars](https://img.shields.io/github/stars/Kalpana-ADS/Sentinel-CCTV-AI?style=social)](https://github.com/Kalpana-ADS/Sentinel-CCTV-AI)
+
 A modern, full-stack AI-powered CCTV surveillance system for real-time video monitoring, people counting, and security alerts!
 
 ---
